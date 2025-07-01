@@ -1,3 +1,4 @@
+/*teste*/
 let nota1 = 8;
 let nota2 = 5;
 let nota3 = 7;
