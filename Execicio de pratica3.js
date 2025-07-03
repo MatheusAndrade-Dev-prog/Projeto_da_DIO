@@ -9,8 +9,7 @@ if (formaPagamento === 1) {
    let total = Preco - 0.15;
    console.log(total);
 } else if (formaPagamento === 3) {
-   let total = Preco - 0;
-   console.log(total);
+   console.log(Preco);
 } else if (formaPagamento === 4) {
    let total = Preco + 0.1;
    console.log(total);
